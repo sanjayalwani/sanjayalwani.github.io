@@ -15,7 +15,6 @@ baseurl:          /
 author:
   name:           'Sanjay Alwani'
   url:            https://github.com/sanjayalwani
-  email:          priv.sanjay+website@gmail.com
 
 # paginate:         5
 
@@ -25,7 +24,6 @@ version:          2.1.0
 socials:
   github:         https://github.com/sanjayalwani/
   linkedin:       https://www.linkedin.com/in/sanjay-alwani/
-  email:          priv.sanjay+website@gmail.com
 
 plugins:
   - jekyll-gist
