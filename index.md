@@ -3,13 +3,15 @@ layout: page
 title: Welcome
 ---
 
-I am a software developer with experience in *Full Stack* Development, and recently graduated with a BSc in Math and CS.
+I am a generalist software developer with experience in *Full Stack* Development.
 
-I have professional experience building features for the web app of a B2B company, and in automating testing of firmware for a B2C company.
+That experiences spans:
+- Compiler development in Clojure.
+- Web application feature development in React, Node.js and Postgres.
+- Embedded device testing using a proprietary framework in Python, orchestrated with Jenkins.
+- Warehouse storage optimization with Python using Pandas, Numpy and OR-Tools.
 
-In my Joint Major in Math and Computer Science at SFU, I studied the fundamentals of CS and took further studies in Security, Databases, Systems, Graphics and Optimization.
-
-## My projects
+## Projects
 
 ### mySoundJourney
 
