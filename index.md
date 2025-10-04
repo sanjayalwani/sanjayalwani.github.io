@@ -21,7 +21,7 @@ A React Single Page Application I made to visualize the numbers behind the music
 
 You can look at the energy, positivity and danceability of recently listened to music or your playlists. My design focuses on privacy first, which was enabled by using React and a client-side OAuth authentication flow that only communicates between your browser and Spotify's servers.
 
-Check out the [<i class="fa fa-fw fa-github"></i>source code](https://github.com/sanjayalwani/mySoundJourney), the site will be live soon after some updates.
+Check out the [<i class="fa fa-fw fa-github"></i>source code](https://github.com/sanjayalwani/mySoundJourney).
 
 ### NonoGame
 
